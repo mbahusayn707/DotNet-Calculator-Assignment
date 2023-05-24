@@ -1,0 +1,8 @@
+C:\dotnet-bootcamp\assignments\Calculator-Assignment\bin\Debug\Calculator-Assignment.exe.config
+C:\dotnet-bootcamp\assignments\Calculator-Assignment\bin\Debug\Calculator-Assignment.exe
+C:\dotnet-bootcamp\assignments\Calculator-Assignment\bin\Debug\Calculator-Assignment.pdb
+C:\dotnet-bootcamp\assignments\Calculator-Assignment\obj\Debug\Calculator-Assignment.csproj.AssemblyReference.cache
+C:\dotnet-bootcamp\assignments\Calculator-Assignment\obj\Debug\Calculator-Assignment.csproj.SuggestedBindingRedirects.cache
+C:\dotnet-bootcamp\assignments\Calculator-Assignment\obj\Debug\Calculator-Assignment.csproj.CoreCompileInputs.cache
+C:\dotnet-bootcamp\assignments\Calculator-Assignment\obj\Debug\Calculator-Assignment.exe
+C:\dotnet-bootcamp\assignments\Calculator-Assignment\obj\Debug\Calculator-Assignment.pdb
